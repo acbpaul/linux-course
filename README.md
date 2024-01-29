@@ -47,19 +47,19 @@ Dive in, sharpen your skills, and give your tech career a big lift.
 #### What is the structure of this course?
 
 **1. Bash CLI Mastery:**  
-Dive deep into the Command Line Interface (CLI) with Bash and transform your day-to-day tech tasks. By mastering this foundational element, you'll not only become comfortable in the command line environment but also gain the confidence to handle daily operations seamlessly.
+    Dive deep into the Command Line Interface (CLI) with Bash and transform your day-to-day tech tasks. By mastering this foundational element, you'll not only become comfortable in the command line environment but also gain the confidence to handle daily operations seamlessly.
 
-From executing basic commands to managing files, the CLI is an indispensable tool for any Linux enthusiast. Through our hands-on exercises and real-world scenarios, you'll learn to use Bash with precision, making everyday tasks easier and more efficient.
+    From executing basic commands to managing files, the CLI is an indispensable tool for any Linux enthusiast. Through our hands-on exercises and real-world scenarios, you'll learn to use Bash with precision, making everyday tasks easier and more efficient.
 
 **2. Diving Deep into Linux:**  
-This segment takes you to the heart of Linux, preparing you for tasks like server administration, network configuration or workstation setups. By exploring the intricate details of Linux processes, user groups, and permissions & SELinux, you'll gain a foundational understanding how everything works. Delve into the boot process, package management, firewalls, networking.
+    This segment takes you to the heart of Linux, preparing you for tasks like server administration, network configuration or workstation setups. By exploring the intricate details of Linux processes, user groups, and permissions & SELinux, you'll gain a foundational understanding how everything works. Delve into the boot process, package management, firewalls, networking.
 
-This knowledge ensures you're well-equipped to manage servers, set up Linux networks, or tackle any related challenges. By the end of this section, you'll navigate the Linux ecosystem with confidence, ready to handle real-world applications with precision.
+    This knowledge ensures you're well-equipped to manage servers, set up Linux networks, or tackle any related challenges. By the end of this section, you'll navigate the Linux ecosystem with confidence, ready to handle real-world applications with precision.
 
 **3.Advanced Bash Scripting:**  
-With your foundational knowledge in place, this section dives deeper into the real-world applications of Bash scripting. Learn to automate repetitive tasks, monitor system health, process vast datasets, and seamlessly integrate with web services. Delve into crafting intricate scripts that utilize loops, tests, and APIs.
+    With your foundational knowledge in place, this section dives deeper into the real-world applications of Bash scripting. Learn to automate repetitive tasks, monitor system health, process vast datasets, and seamlessly integrate with web services. Delve into crafting intricate scripts that utilize loops, tests, and APIs.
 
-This module ensures you're equipped with both theoretical insight and hands-on skills, ready to tackle diverse challenges in various tech environments.
+    This module ensures you're equipped with both theoretical insight and hands-on skills, ready to tackle diverse challenges in various tech environments.
 
 #### Why This Course Stands Out:
 
